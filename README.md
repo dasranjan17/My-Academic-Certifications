@@ -1,1 +1,1 @@
-# Online-Course-Certifications
+This repository is a collection of all my online course certifications that I have completed across different platforms. It serves as a digital portfolio to showcase my continuous learning and skill development.
