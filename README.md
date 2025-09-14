@@ -1,8 +1,8 @@
-# 📜 My Certifications Repository  
+# 📜 My Academic Certifications Repository  
 
 Welcome to my **Certifications Repository** 🎓  
 
-This repository is a collection of all my **online course certifications** that I have completed across different platforms.  
+This repository is a collection of all my **academic certifications** that I have received from different platforms.  
 It serves as a **digital portfolio** to showcase my continuous learning 📚 and skill development 🚀.  
 
 ---
