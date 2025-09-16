@@ -1,7 +1,6 @@
 # Odisha Joint Entrance Examination (OJEE) – 2024 Scorecard 🎓
 
-[📄 View OJEE 2024 Scorecard](./OJEE%202024%20Scorecard.pdf)
-
+[📄 View OJEE 2024 Scorecard](./OJEE%20-%202024%20Scorecard.pdf)
 | **Exam Name** | **Academic Year** | **Candidate Name** | **General Rank** | **Course** |
 |--------------|---------|------------------|----------------|-----------|
 | Odisha Joint Entrance Examination (OJEE) | 2024 - 2025     | Rashmiranjan Das | 239 | MCA (Postgraduate Program) |
