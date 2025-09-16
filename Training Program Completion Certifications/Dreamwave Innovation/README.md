@@ -10,13 +10,9 @@
 This program was organized by **Dreamwave Innovation** to provide hands-on, project-based learning experience in **modern web development using React and data visualization technology - Power BI**.  
 
 ## 🛠 Skills & Technologies Covered
-- 🌐 **Web Technologies:** HTML, CSS, JavaScript  
-- ⚛ **React:** Component-driven UI development, hooks, state management  
-- 📊 **Power BI:** Data visualization and reporting  
-- 🔑 **Role-Based Access Control:** Implemented separate routes for Admin, Entrepreneur, and Investor  
-- 💬 **Messaging & Announcements:** Built message tabs for users and announcement dashboard for Admin  
-- 👤 **Personalized Interfaces:** Profile management tabs for each user type  
-- 🤝 **Team-Based Project Work:** Collaboration, version control, and project delivery  
+ - 🌐 **Web Technologies:** HTML, CSS, JavaScript  
+ - ⚛ **React:** Component-driven UI development, hooks, state management  
+ - 🗄️ **SQL:** Database querying and management  
 
 ## 🚀 Project Outcome
 As part of this program, I developed the **frontend for an Investor–Entrepreneur Platform**, featuring:
