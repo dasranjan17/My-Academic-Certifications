@@ -13,6 +13,7 @@ This program was organized by **Dreamwave Innovation** to provide hands-on, proj
  - 🌐 **Web Technologies:** HTML, CSS, JavaScript  
  - ⚛ **React:** Component-driven UI development, hooks, state management  
  - 🗄️ **SQL:** Database querying and management  
+ - 📊 **Power BI:** Data visualization and reporting  
 
 ## 🚀 Project Outcome
 As part of this program, I developed the **frontend for an Investor–Entrepreneur Platform**, featuring:
