@@ -1,14 +1,14 @@
 # All India NCAT 2025 – Scorecard 📊
 
-![AINCAT Scorecard](./AINCAT%20Scorecard.pdf)
+[AINCAT Scorecard](./AINCAT%20Scorecard.pdf)
 
 | **Name** | **Batch** | **Course** | **University** |
 |---------|-----------|-----------|---------------|
 | Rashmiranjan Das | 2026 | MCA, Computers | Siksha 'O' Anusandhan University, Bhubaneswar |
 
-| **Overall Score** | **Questions Attempted** | **Correct Answers** | **Percentile (Non-Engg.)** |
+| **Date of Examination** | **Overall Score** | **Questions Attempted** | **Correct Answers** | **Percentile (Non-Engg.)** |
 |------------------|----------------------|-------------------|--------------------------|
-| 460 / 670 | 56 / 56 | 37 / 56 | 95.81% |
+30th May'25 | 460 / 670 | 56 / 56 | 37 / 56 | 95.81% |
 
 ## 📊 Section-Wise Performance
 | **Section** | **Score** | **Percentile** |

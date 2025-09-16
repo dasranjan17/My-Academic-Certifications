@@ -1,6 +1,6 @@
 # All India NCAT 2025 – Participation Certificate 🎓
 
-![Participation Certificate](./AlNCAT%20Participation.pdf)
+[Participation Certificate](./AlNCAT%20Participation.pdf)
 
 | **Certificate ID** | **Exam** | **Date of Issue** |
 |--------------------|----------|------------------|
@@ -8,7 +8,7 @@
 
 ## 📄 About AINCAT
 **All India NCAT (AINCAT'25)** is India’s leading online aptitude test for students across engineering and non-engineering streams.  
-It helps participants benchmark their skills nationally, gain recognition from recruiters, and win prizes worth ₹20 Lakh.  
+It helps participants benchmark their skills nationally and gain recognition from recruiters.  
 
 Key Highlights:
 - 🧠 **56 MCQs** covering Quantitative Aptitude, Logical Reasoning, Data Interpretation, Grammar, and Spoken English.  
