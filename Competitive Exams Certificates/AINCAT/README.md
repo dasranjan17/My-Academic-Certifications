@@ -7,7 +7,7 @@
 | Rashmiranjan Das | 2026 | MCA, Computers | Siksha 'O' Anusandhan University, Bhubaneswar |
 
 | **Date of Examination** | **Overall Score** | **Questions Attempted** | **Correct Answers** | **Percentile (Non-Engg.)** |
-|------------------|----------------------|-------------------|--------------------------|
+|------------------|----------------------|-------------------|--------------------------|----------------------|
 30th May'25 | 460 / 670 | 56 / 56 | 37 / 56 | 95.81% |
 
 ## 📊 Section-Wise Performance
