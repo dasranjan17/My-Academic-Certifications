@@ -1,6 +1,6 @@
 # SEBI Investor Awareness Test Certificate 🏆
 
-| **Enrollment No.** | **Issuing Body** | **Score** | **Date of Completion** |
+| **Enrollment No.** | **Issuing Body** | **Score** | **Date of Issuance** |
 |--------------------|-----------------|-----------|-----------------------|
 | NISM20250000232913 | SEBI & NISM     | 50/50 ✅  | 16 September 2025    |
 
