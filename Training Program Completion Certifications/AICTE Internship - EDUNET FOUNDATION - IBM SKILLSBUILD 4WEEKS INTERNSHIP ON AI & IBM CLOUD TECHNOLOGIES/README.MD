@@ -1,4 +1,4 @@
-# AICTE Internship (Edunet Foundation - IBM Skillsbuild Internship) ON AI & IBM Cloud Technologies - 2025
+# AICTE Internship (Edunet Foundation - IBM Skillsbuild Internship) On AI & IBM Cloud Technologies - 2025
 
 [📄 View Certificate](./AICTE%20Internship%20Certificate.pdf)
 
