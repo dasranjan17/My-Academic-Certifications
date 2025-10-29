@@ -7,7 +7,7 @@
 **Event:** National Quiz on Securities Market Awareness  
 **Organised by:** BSE Investor Protection Fund  
 **Dates:** 6 October 2025 – 10 October 2025  
-**Associated Event:** World Investor Week 2025 
+**Associated Event:** World Investor Week 2025  
 **Certificate Issuance date:** 29 October 2025
 
 ## 🎯 About the Quiz  
